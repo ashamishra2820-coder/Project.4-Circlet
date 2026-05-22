@@ -1,5 +1,3 @@
-Aap aise explain kar sakti ho maam ko:
-
 # Project Description – Circlet
 
 ## Introduction
