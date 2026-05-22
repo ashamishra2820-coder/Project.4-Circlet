@@ -1,4 +1,11 @@
 // qestion 6 : Write a program to print custom alphabetic Pattern:
+// * * * * *
+// *       *    
+// *       *
+// * * * * *
+// *
+// *
+// *
 #include<stdio.h>
 
 int main(){
