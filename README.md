@@ -159,7 +159,6 @@ This program prints a custom alphabetic pattern using stars (`*`).
 
 Example:
 
-```text id="gq8v0g"
 * * * * *
 *       *
 *       *
@@ -177,7 +176,6 @@ Logic:
 * `else` prints only one star in remaining rows.
 * `printf("\n")` moves output to the next line after every row.
 
-This pattern demonstrates:
 
 * Use of `for` loop
 * Use of `if-else` conditions
