@@ -1,4 +1,4 @@
-// qestion 6 : Write a program to print custom alphabetic Pattern:
+// qestion 7 : Write a program to print custom alphabetic Pattern:
 // * * * * *
 // *       *    
 // *       *
